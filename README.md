@@ -3,7 +3,7 @@
 * is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-👋 Hello! I'm Nour Ezzehi, currently pursuing a degree in Networks and System Engineering at INSAT, and also a student at Holberton School studying Software Engineering.
+👋 Hello! I'm Nour Ezzehi, currently pursuing a degree in Networks and System Engineering at INSAT.
 
 I am a passionate software developer, with a huge interest in coding, currently studying to become a full stack developer. I love to join different communities to help society.
 
